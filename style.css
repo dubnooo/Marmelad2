@@ -1,0 +1,21 @@
+img {
+    Width: 400px;
+    Height: 200px;
+}
+
+body {
+    background-image: linear-gradient(rgb(53, 231, 41), yellow);
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    color: darkgreen;
+}
+p {
+    text-align: center;
+}
+
+header {
+    background-color: rgb(6, 72, 6);
+}
